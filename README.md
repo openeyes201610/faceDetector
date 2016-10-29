@@ -15,6 +15,6 @@
 
 ## Others
     If you want to get other platform library, you can send email to me. More information you can see in my blog
-    [http://blog.csdn.net/focusface](http://blog.csdn.net/focusface)
+    <a href="http://blog.csdn.net/focusface">http://blog.csdn.net/focusface</a>
 
 

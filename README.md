@@ -6,8 +6,7 @@ This is an project of face detector. It provided a dynamic library.
 2) linux release x64
 
 ## Usage
-There is building a vs2012 project. You can run the program on commandline with a video as paramter.
-Or you can rewrite the file main.cpp.
+I programed a source file main.cpp. You can use it to test the library. The program rely on opencv.
 
 ## Library detail
 This labrary provided there function, you can see in the file face_detector.h. 

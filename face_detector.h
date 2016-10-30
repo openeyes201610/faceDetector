@@ -17,6 +17,15 @@ typedef struct {
  ****************************************/
 int load_model(const char *filePath);
 
+/***************************************
+ * set detect parameter
+ * minScale: factor of min face 
+ * maxScale: factor of max face 
+ * layers: pyramid layers 
+ * offset: offset factor
+ ***************************************/
+void set_detect_params(float minScale, float maxScale, int layers, float offset);
+
 /****************************************
  * detect face on image
  * img: gray image data, gray

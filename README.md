@@ -3,7 +3,8 @@ This is an project of face detector. It provided a dynamic library.
 
 ## Version
 1) windows release x86
-2) linux release x64
+2) windows release x64
+3) linux release x64
 
 ## Usage
 I programed a source file main.cpp. You can use it to test the library. The program rely on opencv.
